@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ACFun弹幕姬(仮)
-// @namespace    http://queb.fun/
+// @namespace    https://queb.fun/
 // @version      0.1
 // @description  try to take over the world!
 // @author       FairyScript
