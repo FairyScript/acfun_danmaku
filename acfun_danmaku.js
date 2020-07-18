@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         ACFun弹幕姬(仮)
-// @namespace    http://tampermonkey.net/
+// @namespace    http://queb.fun/
 // @version      0.1
 // @description  try to take over the world!
-// @author       You
+// @author       FairyScript
 // @match        *://live.acfun.cn/live/*
 // @require      https://cdn.bootcdn.net/ajax/libs/jquery/3.5.1/jquery.min.js
 // @grant        none
